@@ -1,0 +1,4 @@
+- [ ] Fix `oranda build --project-path` so I can build into this repo without a weird toolchain
+- [ ] Logo
+- [ ] Favicon
+- [ ] Self host all CSS, fonts, etc.
